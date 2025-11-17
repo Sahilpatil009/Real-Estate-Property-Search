@@ -60,7 +60,6 @@ A desktop application for managing real estate properties built using pure Win32
 
 ```bash
 # Navigate to project directory
-cd "c:\Users\Sahil\OneDrive\SEM -3\FODS\FODS CP UPDATED"
 
 # Compile the application
 g++ main.cpp -o RealEstateApp.exe -lcomctl32 -lgdi32 -mwindows
@@ -143,7 +142,7 @@ cl /EHsc main.cpp /link comctl32.lib user32.lib gdi32.lib /SUBSYSTEM:WINDOWS /EN
 ## 📂 Project Structure
 
 ```
-FODS CP UPDATED/
+Project/
 │
 ├── main.cpp              # Main application source code
 ├── RealEstateApp.exe     # Compiled executable
