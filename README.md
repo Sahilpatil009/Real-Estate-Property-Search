@@ -1,5 +1,3 @@
-# Real-Estate-Property-Search
-An amazing project build with windows api with language C++.
 # Real Estate Management System
 
 A desktop application for managing real estate properties built using pure Win32 API in C++. This system provides user authentication, property management, and advanced search capabilities with a clean graphical interface.
